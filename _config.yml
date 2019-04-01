@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Medium: "https://medium.com/@tlbradshaw91"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    #- Learn markdown: "http://www.markdowntutorial.com/"
+    #- GitHub Pages: "https://pages.github.com/"
   Author's home: "tbradshaw91.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -42,14 +42,14 @@ avatar: "/img/propic.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#070d59"
+navbar-col: "#a7d129"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#774181"
 hover-col: "#774181"
-footer-col: "#070d59"
-footer-text-col: "#777777"
+footer-col: "#a7d129"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
