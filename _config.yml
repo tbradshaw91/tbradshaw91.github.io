@@ -23,7 +23,7 @@ description: Collection of Aerospace, AI and Other Awesome-Ness
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - Medium: "https://medium.com/@tlbradshaw91"
     #- Learn markdown: "http://www.markdowntutorial.com/"
