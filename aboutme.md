@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: From Stilettos to Statistics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My background is in business, fashion and beauty, although I have always had an interest in technology and aerospace. After being exposed to a tech startup environment, I realized what I had been missing. Thus began my own tech journey. I started reading everything I could get my hands on, in addition to playing around with coding via Coursera before I finally decided to commit to my education. I chose Data Science, because I would love to ultimately work with AI in the Aerospace industry and I believe Data Science is the core foundation in these industries.
