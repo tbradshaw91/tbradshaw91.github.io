@@ -44,10 +44,10 @@ avatar: "/img/propic.jpg"
 
 navbar-col: "#a7d129"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#f9fd50#
+navbar-children-col: "#a7d129"
 page-col: "#FFFFFF"
-link-col: "#774181"
-hover-col: "#774181"
+link-col: "#a7d129"
+hover-col: "#a7d129"
 footer-col: "#a7d129"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
