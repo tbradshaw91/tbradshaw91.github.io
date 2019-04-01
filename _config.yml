@@ -56,7 +56,7 @@ footer-link-col: "#FFFFFF"
 # instead of colour
 
 navbar-img: "/img/large4.jpeg"
-# footer-img: "/img/bgimage.png"
+footer-img: "/img/large4.jpeg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
