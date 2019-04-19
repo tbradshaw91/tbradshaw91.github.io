@@ -2,7 +2,7 @@
 layout: post
 title: Dear Technology, It's Not You, It's Me..
 subtitle: Solving The 'Women In Tech' Debate With Data Insights
-
+bigimg: /img/2560.jpg
 tags: [women, tech, technology, stem]
 ---
 
