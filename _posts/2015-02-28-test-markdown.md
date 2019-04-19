@@ -1,74 +1,18 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+title: Dear Technology, It's Not You, It's Me..
+subtitle: Solving The 'Women In Tech' Debate With Data Insights
+tags: [women, tech, technology, stem]
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+_**Ever wonder why there are not more women in the tech industry?**_ 
+To answer that question, we first need to look at what women are even going to school for. From there, we are able to draw fact based conclusions. Check out my post on medium to see the complete story brought to you by Data Science. 
 
-**Here is some bold text**
+Medium <a href="https://medium.com/@tlbradshaw91/dear-technology-its-not-you-it-s-me-8d27ff3fc3c5">post</a>.
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+For more insights, view my code <a href="https://github.com/tbradshaw91/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/College_Majors_Theory.ipynb">here</a>.
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
